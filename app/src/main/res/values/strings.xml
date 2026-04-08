@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SehatSaathi AI</string>
+    <string name="rx_companion">Rx Companion</string>
+    <string name="splash_subtitle">Your smart medicine companion</string>
+    <string name="tap_to_continue">Tap to continue</string>
+    <string name="heart_icon">+</string>
+    <string name="choose_language">Choose your language</string>
+    <string name="choose_language_subtitle">Select a language to begin the prototype flow.</string>
+    <string name="enter_mobile">Enter your mobile</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="patient_details">Patient Details</string>
+    <string name="trusted_contacts">Trusted Contacts</string>
+    <string name="continue_text">Continue</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="phone">Phone</string>
+    <string name="medical_conditions">Medical Conditions</string>
+    <string name="contact_name">Contact name</string>
+    <string name="contact_phone">Contact number</string>
+    <string name="patient_phone">Patient phone</string>
+    <string name="contact_gender">Female</string>
+    <string name="prototype_complete">Prototype flow complete.</string>
+    <string name="selected_language_format">Language: %1$s</string>
+    <string name="default_language_badge">Language: English</string>
+</resources>

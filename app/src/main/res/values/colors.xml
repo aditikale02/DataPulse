@@ -1,0 +1,13 @@
+<resources>
+    <color name="brand_blue">#3D7EDB</color>
+    <color name="brand_blue_dark">#234E8D</color>
+    <color name="brand_green">#49A28C</color>
+    <color name="surface_card">#F9FBFF</color>
+    <color name="surface_input">#EEF4FB</color>
+    <color name="text_primary">#1D2A44</color>
+    <color name="text_secondary">#62708A</color>
+    <color name="page_top">#E8F2FF</color>
+    <color name="page_bottom">#F8FBFF</color>
+    <color name="dark_top">#163A6B</color>
+    <color name="dark_bottom">#091A34</color>
+</resources>
