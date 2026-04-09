@@ -1,13 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="brand_blue">#3D7EDB</color>
-    <color name="brand_blue_dark">#234E8D</color>
-    <color name="brand_green">#49A28C</color>
-    <color name="surface_card">#F9FBFF</color>
-    <color name="surface_input">#EEF4FB</color>
-    <color name="text_primary">#1D2A44</color>
-    <color name="text_secondary">#62708A</color>
-    <color name="page_top">#E8F2FF</color>
-    <color name="page_bottom">#F8FBFF</color>
-    <color name="dark_top">#163A6B</color>
-    <color name="dark_bottom">#091A34</color>
+    <color name="blue_900">#245B96</color>
+    <color name="blue_700">#3E86D9</color>
+    <color name="blue_500">#5CA8F4</color>
+    <color name="blue_300">#B9D8F8</color>
+    <color name="blue_100">#EAF5FF</color>
+    <color name="mint_500">#51B39B</color>
+    <color name="mint_100">#E6F7F2</color>
+    <color name="surface">#F7FBFF</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="border_soft">#D6E6F7</color>
+    <color name="text_primary">#1D2B3A</color>
+    <color name="text_secondary">#6F8296</color>
+    <color name="text_muted">#9AAABD</color>
+    <color name="success">#2FA66D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>

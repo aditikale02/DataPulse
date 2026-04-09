@@ -1,20 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.SehatSaathi" parent="Theme.Material3.Light.NoActionBar">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/white</item>
         <item name="android:windowLightStatusBar">true</item>
-        <item name="colorPrimary">@color/brand_blue</item>
-        <item name="colorSecondary">@color/brand_green</item>
-        <item name="android:windowBackground">@color/page_bottom</item>
-        <item name="android:navigationBarColor">@color/page_bottom</item>
+        <item name="android:windowBackground">@color/surface</item>
+        <item name="colorPrimary">@color/blue_700</item>
+        <item name="colorPrimaryContainer">@color/blue_100</item>
+        <item name="colorSecondary">@color/mint_500</item>
+        <item name="colorSurface">@color/card_surface</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="materialButtonStyle">@style/Widget.SehatSaathi.Button</item>
     </style>
 
-    <style name="Widget.SehatSaathi.SelectionButton" parent="Widget.Material3.Button.OutlinedButton">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">64dp</item>
-        <item name="strokeColor">@color/brand_blue</item>
-        <item name="strokeWidth">1dp</item>
-        <item name="cornerRadius">18dp</item>
-        <item name="android:textColor">@color/brand_blue_dark</item>
-        <item name="backgroundTint">@android:color/white</item>
+    <style name="Widget.SehatSaathi.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/radius_sm</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="Widget.SehatSaathi.ToolbarButton">
+        <item name="android:background">@drawable/bg_icon_chip</item>
+        <item name="android:padding">@dimen/space_sm</item>
     </style>
 </resources>

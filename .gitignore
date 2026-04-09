@@ -1,11 +1,30 @@
-*.iml
+# Gradle
 .gradle/
-/local.properties
-/.idea/
-/.kotlin/
-/build/
-/app/build/
-captures/
-externalNativeBuild/
+.gradle-user/
+.g/
+build/
+**/build/
+
+# Local SDK / machine-specific
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Temp / validation artifacts
+.tmpgradle/
+.tmp/
+.tmp_aapt2/
+.tmp_aapt2b/
+.tmp_link/
+.tmp_linkb/
+_gradle_tmp/
+*.zip.part
+._git_probe/
+.git_broken/
+._repo_base/
+
+# OS files
 .DS_Store
 Thumbs.db

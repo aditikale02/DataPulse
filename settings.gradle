@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SehatSaathiPrototype"
+rootProject.name = "SehatSaathiModule"
 include(":app")
